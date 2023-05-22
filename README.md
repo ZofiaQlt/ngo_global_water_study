@@ -17,8 +17,6 @@ https://public.tableau.com/app/profile/zofiaqlt/viz/Eaupotabledanslemonde/Aspect
 
 ## Addressing global clean water challenges: a call for sustainable solutions and strategic funding allocation
 
-The accompanying dashboard facilitates the identification of countries in need, aiding NGOs in effectively allocating funding across three core areas of expertise: establishing access to clean water services, upgrading existing infrastructure, and consulting on water access policies.
-
 The access to clean drinking water remains a major challenge in many regions of the world.
 
 According to the World Health Organization (WHO), approximately 2.2 billion people worldwide lack access to safe drinking water, and 4.2 billion people do not have access to basic sanitation facilities. 
