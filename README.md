@@ -27,7 +27,9 @@ The datasets are coming from the Food and Agriculture Organization of the United
 <img width="300" alt="Tableau Logo" src="https://github.com/ZofiaQlt/geocoding_r_tableau/assets/67431758/1cf7a25a-7db8-410f-a8ad-934cf9466989">
 <br>
 <br>
-They were preprocessed and cleaned with Python and then visualized with Tableau.
+They were preprocessed and cleaned with Python and then visualized with Tableau :
+<br>
+https://public.tableau.com/app/profile/zofiaqlt
 <br>
 <br>
 
