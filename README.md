@@ -13,7 +13,6 @@ They were preprocessed and cleaned with Python and then visualized with Tableau 
 <br>
 https://public.tableau.com/app/profile/zofiaqlt/viz/Eaupotabledanslemonde/Aspectmondial
 <br>
-<br>
 
 ## Addressing global clean water challenges: a call for sustainable solutions and strategic funding allocation
 
