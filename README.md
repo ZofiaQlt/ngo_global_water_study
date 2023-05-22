@@ -20,8 +20,8 @@ It focuses on three areas of expertise:
 
 <img width="753" alt="" src="https://github.com/ZofiaQlt/ngo_global_water_study/assets/67431758/23e4d479-cb8c-4a77-a6ef-18d8aee36ae7">
 <br>
-<br>
 The datasets are coming from the Food and Agriculture Organization of the United Nations (FAO) and the World Health Organization (WHO).
+<br>
 <br>
 <br>
 <img width="300" alt="Tableau Logo" src="https://github.com/ZofiaQlt/geocoding_r_tableau/assets/67431758/1cf7a25a-7db8-410f-a8ad-934cf9466989">
