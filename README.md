@@ -14,7 +14,7 @@ They were preprocessed and cleaned with Python and then visualized with Tableau 
 https://public.tableau.com/app/profile/zofiaqlt/viz/Eaupotabledanslemonde/Aspectmondial
 <br>
 
-## Addressing global clean water challenges: a call for sustainable solutions and strategic funding allocation
+## Addressing global clean water challenges through strategic funding allocation
 
 The access to clean drinking water remains a major challenge in many regions of the world.
 
