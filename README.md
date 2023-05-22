@@ -26,7 +26,7 @@ In many countries, limited access to clean water also hampers the development of
 
 Given these challenges, the implementation of policies, technologies, and projects to ensure access to clean water is essential to guarantee sustainable development and foster socio-economic advancement for the most vulnerable populations.
 
-The accompanying dashboard aims to facilitate the identification of countries in need and to aid NGOs to effectively allocate fundings.
+The accompanying dashboard aims to facilitate the identification of countries in need and to aid non-governmental organizations (NGOs) to effectively allocate fundings.
 
 It focuses on three areas of expertise:
 
