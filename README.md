@@ -29,7 +29,7 @@ The datasets are coming from the Food and Agriculture Organization of the United
 <br>
 They were preprocessed and cleaned with Python and then visualized with Tableau :
 <br>
-https://public.tableau.com/app/profile/zofiaqlt
+https://public.tableau.com/app/profile/zofiaqlt/viz/Eaupotabledanslemonde/Aspectmondial
 <br>
 <br>
 
