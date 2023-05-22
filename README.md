@@ -1,23 +1,5 @@
 # Global drinking water study
 
-The access to clean drinking water remains a major challenge in many regions of the world.
-
-According to the World Health Organization (WHO), approximately 2.2 billion people worldwide lack access to safe drinking water, and 4.2 billion people do not have access to basic sanitation facilities. 
-This situation is particularly concerning in developing countries where access issues are often linked to factors such as poverty, war, corruption, population growth, and climate change.
-
-The consequences of this situation are severe and varied, leading to diseases, loss of productivity, population displacement, and armed conflicts. 
-In many countries, limited access to clean water also hampers the development of education, the economy, and the protection of the environment.
-
-Given these challenges, the implementation of policies, technologies, and projects to ensure access to clean water is essential to guarantee sustainable development and foster socio-economic advancement for the most vulnerable populations. 
-
-This dashboard aims to help identify the countries facing challenges in accessing clean drinking water and to permit NGOs to strategically allocate fundings.
-
-It focuses on three areas of expertise:
-
-1. Establishing access to clean water services
-2. Upgrading existing water access services
-3. Consulting with administrations/governments regarding water access policies
-
 <img width="753" alt="" src="https://github.com/ZofiaQlt/ngo_global_water_study/assets/67431758/23e4d479-cb8c-4a77-a6ef-18d8aee36ae7">
 <br>
 The datasets are coming from the Food and Agriculture Organization of the United Nations (FAO) and the World Health Organization (WHO).
@@ -32,6 +14,28 @@ They were preprocessed and cleaned with Python and then visualized with Tableau 
 https://public.tableau.com/app/profile/zofiaqlt/viz/Eaupotabledanslemonde/Aspectmondial
 <br>
 <br>
+
+## Addressing global clean water challenges: a call for sustainable solutions and strategic funding allocation
+
+The accompanying dashboard facilitates the identification of countries in need, aiding NGOs in effectively allocating funding across three core areas of expertise: establishing access to clean water services, upgrading existing infrastructure, and consulting on water access policies.
+
+The access to clean drinking water remains a major challenge in many regions of the world.
+
+According to the World Health Organization (WHO), approximately 2.2 billion people worldwide lack access to safe drinking water, and 4.2 billion people do not have access to basic sanitation facilities. 
+This situation is particularly concerning in developing countries where access issues are often linked to factors such as poverty, war, corruption, population growth, and climate change.
+
+The consequences of this situation are severe and varied, leading to diseases, loss of productivity, population displacement, and armed conflicts. 
+In many countries, limited access to clean water also hampers the development of education, the economy, and the protection of the environment.
+
+Given these challenges, the implementation of policies, technologies, and projects to ensure access to clean water is essential to guarantee sustainable development and foster socio-economic advancement for the most vulnerable populations.
+
+The accompanying dashboard aims to facilitate the identification of countries in need and to aid NGOs to effectively allocate fundings.
+
+It focuses on three areas of expertise:
+
+1. Establishing access to clean water services
+2. Upgrading existing water access services
+3. Consulting with administrations/governments regarding water access policies
 
 ![1 Aspect mondial](https://github.com/ZofiaQlt/ngo_global_water_study/assets/67431758/db18fe63-eaae-4752-b2d5-1203b04666f4)
 
