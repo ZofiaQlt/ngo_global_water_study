@@ -34,7 +34,7 @@ It focuses on three areas of expertise:
 2. Upgrading existing water access services
 3. Consulting with administrations/governments regarding water access policies
 
-![1 Aspect mondial](https://github.com/ZofiaQlt/ngo_global_water_study/assets/67431758/db18fe63-eaae-4752-b2d5-1203b04666f4)
+![Aspect mondial](https://github.com/ZofiaQlt/ngo_global_water_study_tableau/assets/67431758/f86c687c-9cbf-4be7-b214-915aa9273b71)
 
 ![2 Création](https://github.com/ZofiaQlt/ngo_global_water_study/assets/67431758/c79480d3-2b92-4896-b24b-5e1df5c35047)
 
