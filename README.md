@@ -42,4 +42,10 @@ It focuses on three areas of expertise:
 
 ![4 Consulting](https://github.com/ZofiaQlt/ngo_global_water_study/assets/67431758/ec999121-8658-4fbd-b975-1dd59e9cba76)
 
+<img width="681" alt="Capture d’écran 2023-07-05 à 16 03 50" src="https://github.com/ZofiaQlt/ngo_global_water_study_tableau/assets/67431758/92c5e4bb-b44c-4390-b7cd-dbc9955069c1">
+<img width="681" alt="Capture d’écran 2023-07-05 à 15 53 30" src="https://github.com/ZofiaQlt/ngo_global_water_study_tableau/assets/67431758/69cd7d8d-2c6a-4315-a6d4-76d5822f882c">
+<img width="681" alt="Capture d’écran 2023-07-05 à 15 56 28" src="https://github.com/ZofiaQlt/ngo_global_water_study_tableau/assets/67431758/142f8770-d1f7-4646-8fb8-57d364e9f50c">
+<img width="681" alt="Capture d’écran 2023-07-05 à 15 59 42" src="https://github.com/ZofiaQlt/ngo_global_water_study_tableau/assets/67431758/509f464f-ec4d-45af-a258-cce7546222c5">
+
+
 
