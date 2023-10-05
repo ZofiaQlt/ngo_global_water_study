@@ -89,7 +89,7 @@ def exploration_long(df):
     print('-----------------------------------------------------')
     print('Affichage des doublons (df[df.duplicated()].head(10))')
     print('----------------------------------------------------- \n')
-    print(df[df.duplicated()].head(10), '\n')      
+    print(df[df.duplicated()].head(10), '\n')
     print('-----------------------------------')
     print('Résumé analyse univariée (describe)')
     print('----------------------------------- \n')
