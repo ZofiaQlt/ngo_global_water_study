@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 from matplotlib.collections import LineCollection
 import numpy as np
-import pandas as pd
 
 
 def display_circles(pcs, n_comp, pca, axis_ranks, labels=None, label_rotation=0, lims=None):
