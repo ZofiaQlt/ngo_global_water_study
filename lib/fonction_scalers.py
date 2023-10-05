@@ -71,7 +71,7 @@ def scalers(df):
         plt.show()
         
         # création boxplots
-        fig=plt.figure(figsize=(25,15))
+        plt.figure(figsize=(25,15))
         df_scal.boxplot(vert=False)
         plt.yticks(size=20)
         plt.show()
