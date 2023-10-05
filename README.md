@@ -30,9 +30,9 @@ The accompanying dashboard aims to facilitate the identification of countries in
 
 It focuses on three areas of expertise:
 
- 1. Establishing access to clean water services
- 2. Upgrading existing water access services
- 3. Consulting with administrations/governments regarding water access policies
+1.  Establishing access to clean water services
+2.  Upgrading existing water access services
+3.  Consulting with administrations/governments regarding water access policies
 
 <img width="681" alt="Capture d’écran 2023-07-05 à 16 03 50" src="https://github.com/ZofiaQlt/ngo_global_water_study_tableau/assets/67431758/92c5e4bb-b44c-4390-b7cd-dbc9955069c1">
 <img width="681" alt="Capture d’écran 2023-07-05 à 15 53 30" src="https://github.com/ZofiaQlt/ngo_global_water_study_tableau/assets/67431758/69cd7d8d-2c6a-4315-a6d4-76d5822f882c">
