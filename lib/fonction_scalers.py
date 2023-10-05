@@ -4,7 +4,6 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.preprocessing import MaxAbsScaler
 from sklearn.preprocessing import QuantileTransformer
-from matplotlib import pyplot
 import pandas as pd
 import scipy.stats as stats
 import matplotlib.pyplot as plt
@@ -30,7 +29,7 @@ def scalers(df):
         nb_outlier_z = len(outlier_z)
         print(bold + f"\n{i} : {nb_outlier_z} outliers \n\n" + end + f"{outlier_z[['Pays', i]]} \n" + "-" * 50)
     
-    #création de DF avec valeurs numériques uniquement    
+    #création de DF avec valeurs numériques uniquement
     df_scal = df.copy()
     df_scal = df[num]
     #print(df_scal.sample())
@@ -45,7 +44,7 @@ def scalers(df):
     print(dataset.describe())
     # histograms of the variables
     dataset.hist()
-    pyplot.show()
+    plt.show()
     print("-" * 100)
     
     print(bold + "SCALERS" + end)
@@ -69,7 +68,7 @@ def scalers(df):
         print(df_scal.describe())
         # histograms of the variables
         df_scal.hist()
-        pyplot.show()
+        plt.show()
         
         # création boxplots
         fig=plt.figure(figsize=(25,15))
