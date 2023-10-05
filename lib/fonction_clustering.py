@@ -1,12 +1,9 @@
 import pandas as pd
-import numpy as np
 import time
-from sklearn import metrics
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.metrics import davies_bouldin_score, silhouette_score, calinski_harabasz_score
 from sklearn.cluster import KMeans, AgglomerativeClustering
-from scipy.cluster.hierarchy import dendrogram
 import warnings
 warnings.filterwarnings('ignore')
 
