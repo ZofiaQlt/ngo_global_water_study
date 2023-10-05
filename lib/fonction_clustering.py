@@ -1,7 +1,6 @@
 import pandas as pd
 import time
 import matplotlib.pyplot as plt
-import seaborn as sns
 from sklearn.metrics import davies_bouldin_score, silhouette_score, calinski_harabasz_score
 from sklearn.cluster import KMeans, AgglomerativeClustering
 import warnings
