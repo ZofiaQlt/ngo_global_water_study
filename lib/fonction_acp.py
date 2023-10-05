@@ -58,7 +58,7 @@ def display_factorial_planes(X_projected, n_comp, pca, axis_ranks, labels=None, 
     for d1,d2 in axis_ranks:
         if d2 < n_comp:
  
-            # initialisation de la figure       
+            # initialisation de la figure
             fig = plt.figure(figsize=(10,10))
         
             # affichage des points
