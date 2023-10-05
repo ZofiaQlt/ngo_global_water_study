@@ -2,7 +2,7 @@ from sklearn.preprocessing import PowerTransformer
 from sklearn.preprocessing import RobustScaler
 from sklearn.preprocessing import StandardScaler
 from sklearn.preprocessing import MinMaxScaler
-from sklearn.preprocessing import MaxAbsScaler  
+from sklearn.preprocessing import MaxAbsScaler
 from sklearn.preprocessing import QuantileTransformer
 from matplotlib import pyplot
 import pandas as pd
