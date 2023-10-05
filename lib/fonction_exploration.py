@@ -1,5 +1,5 @@
 import pandas as pd
-from IPython.display import display_html 
+from IPython.display import display_html
 
 def exploration1(df):
 
@@ -41,7 +41,7 @@ def exploration3(df):
     print('-----------------------------------------------------')
     print('Affichage des doublons (df[df.duplicated()].head(10))')
     print('----------------------------------------------------- \n')
-    print(df[df.duplicated()].head(10), '\n')  
+    print(df[df.duplicated()].head(10), '\n')
     
 
 def exploration4(df):
