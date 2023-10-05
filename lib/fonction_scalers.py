@@ -49,10 +49,10 @@ def scalers(df):
     
     print(bold + "SCALERS" + end)
     print("-" * 100)
-    scalers = [PowerTransformer(method='yeo-johnson', standardize=True), 
-               RobustScaler(), 
-               StandardScaler(), 
-               MinMaxScaler(), 
+    scalers = [PowerTransformer(method='yeo-johnson', standardize=True),
+               RobustScaler(),
+               StandardScaler(),
+               MinMaxScaler(),
                MaxAbsScaler(),
                QuantileTransformer(output_distribution='normal')]
     # check data after scaling
