@@ -1,4 +1,4 @@
-# Global drinking water study
+# Global drinking water study 
 
 <img width="753" alt="" src="https://github.com/ZofiaQlt/ngo_global_water_study/assets/67431758/23e4d479-cb8c-4a77-a6ef-18d8aee36ae7">
 <br>
